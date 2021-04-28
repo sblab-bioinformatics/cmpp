@@ -10,5 +10,5 @@ The SMARCA4 ChIP-seq data have been deposited in the Gene Expression Omnibus (GE
 
 ## Bioinformatics data analyses
 
-- [Label-free quantitative proteomics](scripts/proteomics.md)
 - [ChIP-seq](scripts/chipseq.md)
+- [Label-free quantitative proteomics](scripts/proteomics.md)
