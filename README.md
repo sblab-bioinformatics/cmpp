@@ -1,4 +1,4 @@
-This repository contains data availability and bioinformatics data analyses developed in the manuscript Zhang X. *et al.*, Nature Chemistry, 2021 (under review)
+This repository contains data availability and bioinformatics data analyses developed in the manuscript Zhang X. *et al.*, Nature Chemistry, 2021 (doi: 10.1038/s41557-021-00736-9)
  
  
 ## Data availability
